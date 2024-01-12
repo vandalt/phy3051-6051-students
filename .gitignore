@@ -168,3 +168,7 @@ poetry.toml
 
 # LSP config files
 pyrightconfig.json
+
+# Données
+top_secret_data.txt
+top_secret_model.txt
