@@ -101,7 +101,7 @@ Il s'agit des _packages_ requis pour le TP d'aujourd'hui. Une fois le fichier cr
 python -m pip install -U -r requirements.txt
 ```
 
-Voilà! Vous pouvez maintenant ouvrir le Jupyter Notebook du TP d'aujourd'hui: [02_notebook_revision_python.ipynb](tp1-demo-git-python/01_revision_python.ipynb)
+Voilà! Vous pouvez maintenant ouvrir le Jupyter Notebook du TP d'aujourd'hui: [02_notebook_revision_python.ipynb](tp1-demo-git-python/02_revision_python.ipynb)
 
 
 ## Alternatives
